@@ -1,0 +1,11 @@
+Dicom2Mesh Settings
+-------------------
+Input directory: D:\Program Files\Unity\Projects\VolumeRenderingSets\200Orient\AIR\ScalarVolume_17\
+Output file path: C:\Users\antsy\AppData\Roaming\Blender Foundation\Blender\4.2\scripts\addons\SurfacePipePlacer\dicom2mesh\output.stl
+Surface segmentation: -650
+Mesh reduction: enabled (rate=0.800000)
+Mesh polygon limitation: disabled
+Mesh smoothing: disabled
+Mesh centering: enabled
+Mesh filtering: enabled (size-ratio=0.050000)
+Volume cropping: disabled
